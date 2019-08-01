@@ -8,7 +8,7 @@
 // optional:
     \since:          "2014",
     \schelp:         "Introducing 3Dj",
-    \ext_dependancy: "SC3 plugins, ATK, AmbDec",
+    \ext_dependency: "SC3 plugins, ATK, AmbDec",
     \url:            "https://github.com/andresperezlopez/rt-spatialization",
 
 // If the quark depends on other quarks, you can specify it as a list containing:
